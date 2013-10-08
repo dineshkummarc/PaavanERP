@@ -1,4 +1,3 @@
 PaavanERP
 =========
-
-this is a closed source ERP from EC
+This is a closed source ERP from EC.
